@@ -44,8 +44,7 @@
 
 ### 🌐 Contact Me
 <p align="left">
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+  <a href="mailto:aliloumak@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
 </p>
 
 ---
