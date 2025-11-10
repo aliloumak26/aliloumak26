@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 💡 I'm a **computer science student** specializing in **cybersecurity**.  
-- 💻 I love exploring how systems work — and sometimes breaking them to make them stronger 😄  
+- 💻 I love exploring how systems work — and sometimes breaking them to make them stronger 
 - 🧩 I enjoy **CTF challenges**, **Linux**, and **Shell scripting**.  
 - 🌱 Currently learning more about **web security** and **network defense**.  
 
