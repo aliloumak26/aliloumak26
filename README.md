@@ -35,12 +35,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?user=AliMk&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 🌐 Contact Me
 <p align="left">
