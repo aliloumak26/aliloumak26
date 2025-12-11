@@ -27,11 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMk&show_icons=true&theme=tokyonight&count_private=true" alt="AliMk's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMk&theme=tokyonight" alt="AliMk's streak stats" height="165"/>
-</p>
+### 👥 Communities
+ 
+- 🏢 Member of [Micro Club](https://github.com/https://github.com/MicroClub-USTHB)
 
 ---
 
