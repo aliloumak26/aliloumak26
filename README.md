@@ -27,12 +27,6 @@
 
 ---
 
-### 👥 Communities
- 
-- 🏢 Member of [Micro Club](https://github.com/https://github.com/MicroClub-USTHB)
-
----
-
 
 ### 🌐 Contact Me
 <p align="left">
