@@ -27,7 +27,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aliloumak26&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://gh-readme-stats.hackclub.dev/api?username=aliloumak26)
 
 ---
 
