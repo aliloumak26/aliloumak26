@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm Ali MAKHLOUF</h1>
-<h3 align="center">🎓 3rd Year Computer Science Student | 🔒 Cybersecurity Enthusiast</h3>
+<h1 align="center"> Hey, I'm Ali MAKHLOUF</h1>
+<h3 align="center">🎓 3rd Year Computer Science Student |  Cybersecurity Enthusiast</h3>
 
 ---
 
