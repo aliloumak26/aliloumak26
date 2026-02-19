@@ -30,9 +30,7 @@
 
 ### 🌐 Contact Me
 <p align="left">
-  <a href="mailto:aliloumak@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
+  <a href="mailto:aliloumak26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
 </p>
 
----
 
-> 🐉 “Learn. Break. Understand. Secure.”
