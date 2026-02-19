@@ -27,7 +27,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aliloumak26&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliloumak26&layout=compact&theme=radical)
 
 ---
 
