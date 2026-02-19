@@ -27,7 +27,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliloumak26&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliloumak26&show_icons=true&theme=tokyonight)
 
 ---
 
