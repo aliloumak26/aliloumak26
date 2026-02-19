@@ -27,7 +27,7 @@
 
 ---
 
-![GitHub Stats](https://gh-readme-stats.hackclub.dev/api?username=aliloumak26)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliloumak26&theme=tokyonight)
 
 ---
 
