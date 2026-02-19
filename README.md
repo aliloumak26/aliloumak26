@@ -27,7 +27,7 @@
 
 ---
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliloumak26&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliloumak26&theme=tokyonight) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliloumak26&theme=tokyonight)
 
 ---
 
